@@ -12,6 +12,7 @@
 		8B5AEEB51F2526AE00F724A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B5AEEB31F2526AE00F724A5 /* Main.storyboard */; };
 		8B5AEEB71F2526AE00F724A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5AEEB61F2526AE00F724A5 /* Assets.xcassets */; };
 		8B5AEEBA1F2526AE00F724A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B5AEEB81F2526AE00F724A5 /* LaunchScreen.storyboard */; };
+		8B5AEEC21F2527D600F724A5 /* PersonaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5AEEC11F2527D600F724A5 /* PersonaObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8B5AEEB61F2526AE00F724A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B5AEEB91F2526AE00F724A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B5AEEBB1F2526AE00F724A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B5AEEC11F2527D600F724A5 /* PersonaObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonaObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				8B5AEEAF1F2526AE00F724A5 /* AppDelegate.swift */,
 				8B5AEEB11F2526AE00F724A5 /* ViewController.swift */,
+				8B5AEEC11F2527D600F724A5 /* PersonaObject.swift */,
 				8B5AEEB31F2526AE00F724A5 /* Main.storyboard */,
 				8B5AEEB61F2526AE00F724A5 /* Assets.xcassets */,
 				8B5AEEB81F2526AE00F724A5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				8B5AEEB21F2526AE00F724A5 /* ViewController.swift in Sources */,
 				8B5AEEB01F2526AE00F724A5 /* AppDelegate.swift in Sources */,
+				8B5AEEC21F2527D600F724A5 /* PersonaObject.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
